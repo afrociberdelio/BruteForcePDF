@@ -5,7 +5,7 @@
 
 ### Install requirements to Lab
 - [Python 3.12](https://www.python.org/downloads/release/python-3120/) ou superior  
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 ### Get hash to PDF file (Powershell)
 ```cd hashcat```  
